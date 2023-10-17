@@ -1,1 +1,7 @@
 Hello World!!
+
+Lista de compras:
+
+-maça
+-pera
+-uva
